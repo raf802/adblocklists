@@ -1,0 +1,3 @@
+#Whitelisted domains
+
+@@||2a7e9.v.fwmrm.net/ad/$script,domain=channel4.com
