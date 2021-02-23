@@ -1,3 +1,14 @@
 #Whitelisted domains
 
-@@||2a7e9.v.fwmrm.net/ad/$script,domain=channel4.com
+
+#need to convert to simple
+#2a7e9.v.fwmrm.net/ad/
+
+#itv
+tom.itv.com
+
+
+#HONEY
+
+joinhoney.com
+honey.io
